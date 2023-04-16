@@ -25,19 +25,19 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://te.legra.ph/file/5b5f873158e34c63775d5.jpg" width="420" height="180"><br>
 
-<img src="https://badgen.net/badge/Name/AyushSharma64047/FF33FF?icon=awesome&labelColor=0080FF"></a>
+<img src="https://badgen.net/badge/Name/AyushSharma64047/FF33FF?icon=awesome&labelColor=0080FF"> </a>
 
-<a><img src="https://badgen.net/badge/Skills/python/blue?icon=terminal&labelColor=purple">
+<a><img src="https://badgen.net/badge/Skills/python/blue?icon=terminal&labelColor=purple"></a>
 
-<img src="https://badgen.net/badge/Skills/javascript/yellow?icon=terminal&labelColor=neon">
+<img src="https://badgen.net/badge/Skills/javascript/yellow?icon=terminal&labelColor=neon"></a>
 
-<img src="https://badgen.net/badge/Skills/HTML5/green?icon=terminal&labelColor=blue">
+<img src="https://badgen.net/badge/Skills/HTML5/green?icon=terminal&labelColor=blue"></a>
 
 <img src="https://badgen.net/badge/Skills/CSS/Red?icon=terminal&labelColor=blue"></a>
 
-<img src="https://badgen.net/badge/Skills/SQL/yellow?icon=terminal&labelColor=orange">
+<img src="https://badgen.net/badge/Skills/SQL/yellow?icon=terminal&labelColor=orange"></a>
 
-<img src="https://badgen.net/badge/Skills/C++/red?icon=terminal&labelColor=crimson">
+<img src="https://badgen.net/badge/Skills/C++/red?icon=terminal&labelColor=crimson"></a>
 
 <img src="https://badgen.net/badge/Skills/MySQL/pink?icon=terminal&labelColor=violet"></a>
 
