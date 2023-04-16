@@ -1,11 +1,11 @@
 # Profile.html
 ## Credits ~ Aayush64047
 
--> 👋 Yo, I’m Ayush
--> 👀 I’m interested in programmin' 🐍
--> 🌱 I’m currently learning my own mistakes...
--> 💞️ I’m lookin' to collaborate on nothin'...
--> 📫 How to reach me ? Telegram ...
+-<a> 👋 Yo, I’m Aayushــــــــــــــــ ـہہـ٨ـہہـ٨ـ </a>
+-<a>👀 I’m interested in programmin' 🐍</a>
+-<a>🌱 I’m currently learning my own mistakes...</a>
+-<a>💞️lookin' to collaborate on nothin'...</a>
+-<a>📫 How to reach me ? Telegram ...<a>
 
 <!---
 Ayush64047/Ayush64047 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
